@@ -1,2 +1,3 @@
 # Python
-In this repository I show python coding used to print odd numbers from For loop and While loop
+In this repository I try python coding used to solve basic questions using functions.
+ I also show how to print odd numbers using For loop and While loop.
